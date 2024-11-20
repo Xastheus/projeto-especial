@@ -171,6 +171,10 @@ body {
         flex-direction: column-reverse;
     } 
 
+    .apresentacao__conteudo__subtitulo {
+        text-align: center;
+    }
+
     .apresentacao__conteudo {
         width: auto;
     }
